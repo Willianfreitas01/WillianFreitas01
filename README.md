@@ -10,6 +10,8 @@
 - Uma paixão em estudar programação um pouco a mais no tempo vago;
 
 
+Você também pode vir a me contatar por esses meios de contato:
+
 <div> 
 
   <a href="https://www.instagram.com/ev0luwill/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
