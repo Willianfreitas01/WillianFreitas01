@@ -1,5 +1,6 @@
-### Olá, Bom/Boa["dia", "tarde", "noite"], meu nome é willian 👋😎
+<img align="right" width="350" height="300" right="0px" src="https://orig00.deviantart.net/355a/f/2018/093/2/c/talon_by_hidore-dc7msvv.gif"/>
 
+### Olá, Bom/Boa["dia", "tarde", "noite"], meu nome é willian 👋😎
 - Atualmente estou estudando backend (javascript);
 - Tenho 19 anos!! 
 - Atuo como Estágiario no projeto "Aceleradora Ágil" da TW ("Thoughtworks) com a PucRS
@@ -8,7 +9,6 @@
 - Um apreço por quaisquer desafio fornecidos pela linguagem de programação que eu tenho a usufruir;
 - Sempre aprendendo com meus erros e tentendo melhorar com eles 😀;
 - Uma paixão em estudar programação um pouco a mais no tempo vago;
-
 <div align="center">
   <a href="https://github.com/Willianfreitas01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Willianfreitas01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
